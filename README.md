@@ -54,11 +54,11 @@ so_long_linux/
 ## 📋 Sistem Gereksinimleri
 
 ### Minimum Gereksinimler
-- **İşletim Sistemi**: Linux (Ubuntu 18.04+, Debian 10+)
-- **Derleyici**: GCC 4.8+ veya Clang 3.5+
+- **İşletim Sistemi**: Linux (Ubuntu 20.04+, Debian 11+)
+- **Derleyici**: GCC 9.0+ veya Clang 10.0+
 - **Grafik Sistemi**: X11 window system
-- **Bellek**: 64 MB RAM
-- **Disk Alanı**: 50 MB boş alan
+- **Bellek**: 512 MB RAM
+- **Disk Alanı**: 100 MB boş alan
 
 ### Gerekli Kütüphaneler
 ```bash
@@ -172,10 +172,8 @@ Bu proje 42 okulu müfredatının bir parçasıdır. Eğitim amaçlı geliştiri
 
 ## 📞 İletişim
 
-**Geliştirici**: Özer Murat  
-**E-posta**: [email@example.com]  
-**LinkedIn**: [linkedin.com/in/profile]  
-**GitHub**: [github.com/Nalveiz]
+**E-posta**: [ozemusta44@gmail.com]  
+**LinkedIn**: [https://www.linkedin.com/in/mustafa-ozer-aa2705187/]  
 
 ---
 
